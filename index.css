@@ -1,0 +1,111 @@
+.arrow-up {
+  width: 0; 
+  height: 10; 
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  display: flex;
+  border-bottom: 60px solid rgb(254, 233, 0);
+}
+
+.arrow-down {
+  width: 0; 
+  height: 0; 
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  padding: 2px 2px 2px 2px;
+  
+  
+  border-top: 20px solid #dd1c02;
+}
+
+.arrow-right {
+  width: 0; 
+  height: 0; 
+  border-top: 60px solid transparent;
+  border-bottom: 60px solid transparent;
+  
+  border-left: 60px solid rgb(254, 233, 0);
+}
+
+.arrow-left {
+  width: 0; 
+  height: 0; 
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent; 
+  border-right:10px solid rgb(255, 255, 255); 
+}
+  #rcorners5 {
+    border-radius: 700px;
+    background: #dd1c02;;
+    padding: 0px; 
+    width: px;
+    height: 20px;
+    display: flex;
+    margin: -30px 0px 0px 0px;
+    align-items: flex-start;
+  }
+  #rcorners4 {
+    border-radius: 700px;
+    background: #dd1c02;
+    padding: 0px; 
+    width: 300px;
+    height: 300px;
+    display: flex;
+    margin: -30px 0px 0px 0px;
+    align-items: flex-start;
+  } 
+  .rcorners4 {
+    border-radius: 70px;
+    background: rgb(30, 0, 255);
+    padding: 0px; 
+    width: 100px;
+    height: 100px;
+    display: flex;
+    margin: -25px 0px 0px 0px;
+    justify-content: center;
+    float: center;
+    
+  }
+.rcorners5 {
+border-radius: 700px;
+background: #ffffff;
+padding: 0px; 
+width: 300px;
+height: 300px;
+float: right;
+display: flex;
+
+margin: -30px 0px 0px 0px;
+}
+  .section2 {
+    width: 300px;
+    border: 10px solid rgb(30, 0, 255);
+    padding: 50px;
+    margin: 20px;
+    background-color: solid rgb(255, 255, 255);
+    margin: -290px 300px 0px 0px;
+    float: left;
+  }
+  .big-box-mix {
+    border: 10px solid #dd1c02;;
+    padding: 50px;
+    margin: 20px;
+    background-color: solid rgb(30, 0, 255);
+    margin: -290px 300px 0px 0px;
+  }
+  .big-triangule {
+    width: 0; 
+    height: 200; 
+    border-left: 500px solid transparent;
+    border-right: 500px solid transparent;
+    border-bottom: 400px solid rgb(254, 233, 0);
+    margin: -200px 0px 0px 0px;
+  }
+  #text-box-form {
+    border: solid white 15px;
+  }
+
+  body {
+    background-color: rgb(255, 255, 255);
+    margin: 0%;
+  }
